@@ -21,5 +21,7 @@ stage_6 = input ('Введите название шестого этапа: ')
 
 print (stage_1, stage_2, stage_3, stage_4, stage_5, stage_6, sep='=>')
 
+input()
+
 
 
